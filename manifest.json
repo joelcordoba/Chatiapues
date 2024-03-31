@@ -11,44 +11,14 @@
   "lang": "es-CO",
   "icons": [
     {
-      "src": "https://lh3.googleusercontent.com/-KqqURFVHc68/Zgi2AVoJAxI/AAAAAAAAXP0/0630hI6fgt4eddydPN_c9K70l9KI5udqQCNcBGAsYHQ/icon-72x72.png",
-      "sizes": "72x72",
-      "type": "image/png"
-    },
-    {
-      "src": "https://lh3.googleusercontent.com/-1mx9iwPF6-Q/Zgi2AygCjBI/AAAAAAAAXP4/LwMjrC2LN7I7TTji2YG2ZsSwKq0GxHgigCNcBGAsYHQ/icon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    },
-    {
-      "src": "https://lh3.googleusercontent.com/-DYK166rrvik/Zgi1-z3GUHI/AAAAAAAAXPg/N967Vm8ODoEcuhWuxIb8qAlRmru1uIu0ACNcBGAsYHQ/icon-128x128.png",
-      "sizes": "128x128",
-      "type": "image/png"
-    },
-    {
-      "src": "https://lh3.googleusercontent.com/-zqVBdHRAxX4/Zgi1-4HtmeI/AAAAAAAAXPo/eHZeZ_hwKHQY3rWWKa9wnsrqzkynIY81ACNcBGAsYHQ/icon-144x144.png",
-      "sizes": "144x144",
+      "src": "https://lh3.googleusercontent.com/-uHYdnL1G13M/Zgi1_4PghbI/AAAAAAAAXPw/FW4uTAoVv6gcNAW5xtXqmTC2XdGhcE6TQCNcBGAsYHQ/icon-512x512.png",
+      "sizes": "512x512",
       "type": "image/png"
     },
     {
       "src": "https://lh3.googleusercontent.com/-JrZXuxEnumc/Zgi38a6iebI/AAAAAAAAXQQ/REq1PJIs_awf7nCDQvNDePyWmO6qnq8tgCNcBGAsYHQ/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
-    },
-    {
-      "src": "https://lh3.googleusercontent.com/-1TnNo5KcTwU/Zgi1-zL-DSI/AAAAAAAAXPk/VkVdR1bYTk8g0ujy3kdRQQwP7F0jwSDkQCNcBGAsYHQ/icon-256x256.png",
-      "sizes": "256x256",
-      "type": "image/png"
-    },
-    {
-      "src": "https://lh3.googleusercontent.com/-0q_arrDEAcE/Zgi1_Rw7I9I/AAAAAAAAXPs/xo86AmYD1RQrUVoFsSA2iKBcd0hNs09fQCNcBGAsYHQ/icon-384x384.png",
-      "sizes": "384x384",
-      "type": "image/png"
-    },
-    {
-      "src": "https://lh3.googleusercontent.com/-uHYdnL1G13M/Zgi1_4PghbI/AAAAAAAAXPw/FW4uTAoVv6gcNAW5xtXqmTC2XdGhcE6TQCNcBGAsYHQ/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-   }
+    }
   ]
 }
