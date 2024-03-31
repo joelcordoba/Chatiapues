@@ -1,0 +1,59 @@
+{
+  "id": "/",
+  "name": "Chatiapues",
+  "short_name": "JChatiapues",
+  "description": "Chatiapues es la red social gratuita para conocer gente más grande de Colombia y el mundo. chatea con personas reales. Puedes acceder a todo totalmente GRATIS",
+  "theme_color": "#2F3BA2",
+  "background_color": "#FFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "https://www.chatiapuesmessenger.com",
+  "lang": "es-CO",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/-UGSiegmn1hI/ZgCtRML_jvI/AAAAAAAAXOI/18WCsBXu26AtXWqUzNcAIOJ5fTsuQ0pxwCNcBGAsYHQ/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-VwcD-C0dHRw/ZgCtRsJ8MzI/AAAAAAAAXOM/nn_P00yyQO8uvQAnvYa3zvSJ6fUBjdNKACNcBGAsYHQ/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-xiYAb6t4bRs/ZgCtOnshEBI/AAAAAAAAXNs/8keUTGq1CwY-tY_QED9L1O4Vu2TO76naQCNcBGAsYHQ/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-x9Cy7M8dXdw/ZgCtOorzqYI/AAAAAAAAXN0/wPNLPdX-H9cDbwti-YJYtqbjaEahePxgACNcBGAsYHQ/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-NkxnZxIWFvM/ZgCtOuuARrI/AAAAAAAAXNw/wf2So2Y3tuAiL_o2R1dXBGtAyLW6rEL1QCNcBGAsYHQ/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-q8YhAwrNdaM/ZgCtOwxLkaI/AAAAAAAAXN4/5wVfkDugBso_C9qYVmnjNJElswCABFx3ACNcBGAsYHQ/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-C5t9FcqPQts/ZgCtPqcjYzI/AAAAAAAAXN8/8B0Qtqe9L-AGThI_wNbuGsypdgnvfk2BACNcBGAsYHQ/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-kSQOmmu_MpE/ZgCtQD9o0CI/AAAAAAAAXOA/zSGpuJ5k-CcCaPjPu_r5a0ukd2raACtbQCNcBGAsYHQ/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-WUo9faOdmXQ/ZgCtQlefliI/AAAAAAAAXOE/yPmn9BTJJXwGmmkdBaeVpvBUlme1DU6GgCNcBGAsYHQ/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+   }
+  ]
+}
