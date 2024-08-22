@@ -1,7 +1,7 @@
 // Asignar un nombre y versión al cache
 const CACHE_NAME = 'Chatiapues-v1',
   urlsToCache = [
-    '/', // Si estás trabajando en la raíz, esto debería funcionar; si no, ajusta la ruta.
+    '/', //
     '/index.html',
     '/css/bootstrap.min.css',
     '/css/home.css',
