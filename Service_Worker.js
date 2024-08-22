@@ -10,8 +10,8 @@ const CACHE_NAME = 'Chatiapues-v1',
     '/js/jquery-3.6.0.js',
 
     '/regist_serviceWorker.js',
-    '/pwa/images/icons/icon-512x512.png',
-    '/pwa/images/icons/icon-72x72.png'
+    'https://lh3.googleusercontent.com/-uHYdnL1G13M/Zgi1_4PghbI/AAAAAAAAXPw/FW4uTAoVv6gcNAW5xtXqmTC2XdGhcE6TQCNcBGAsYHQ/icon-512x512.png',
+    'https://lh3.googleusercontent.com/-KqqURFVHc68/Zgi2AVoJAxI/AAAAAAAAXP0/0630hI6fgt4eddydPN_c9K70l9KI5udqQCNcBGAsYHQ/icon-72x72.png'
   ];
 
 // Durante la fase de instalación, generalmente se almacena en caché los activos estáticos
