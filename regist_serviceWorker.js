@@ -1,7 +1,15 @@
 if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('https://raw.githubusercontent.com/joelcordoba/Chatiapues/main/Service_Worker.js')
-      .then(reg => console.log('Service Worker registrado', reg))
-      .catch(err => console.log('Error al registrar el Service Worker', err));
-  });
+  navigator.serviceWorker.register('./Service_Worker.js')
+    .then(reg => console.log('Registro de SW exitoso', reg))
+    .catch(err => console.warn('Error al tratar de registrar el sw', err))
+}
+
+/* tambien se puede registrar el servi WORKER de esta manera
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", function() {
+    navigator.serviceWorker
+      .register("./Service_Worker.js")
+      .then(res => console.log("service worker registered"))
+      .catch(err => console.log("service worker not registered", err))
+  })
 }
